@@ -101,14 +101,22 @@ cd devlinux
 
 ---
 
-### Bước 4 — Tạo branch cho mỗi buổi học
+### Bước 4 — Pull code mới nhất và tạo branch
 
-Format bắt buộc: `tên-môn/KXX.X/tên-của-bạn/session-XX`
+**Làm bước này mỗi buổi học trước khi bắt đầu làm bài.**
 
 ```bash
-# Ví dụ: học viên "nguyen-van-a", môn Embedded Linux, khoá K26.1, buổi 1
+# 1. Quay về master
+git checkout master
+
+# 2. Pull code mới nhất từ repo giáo viên (có homework.md của buổi mới)
+git pull upstream master
+
+# 3. Tạo branch mới cho buổi học và checkout sang branch đó
 git checkout -b embedded-linux/K26.1/nguyen-van-a/session-01
 ```
+
+Format branch bắt buộc: `tên-môn/KXX.X/tên-của-bạn/session-XX`
 
 | Môn | Tên dùng trong branch |
 |---|---|
@@ -221,17 +229,17 @@ PR tự cập nhật và được review lại tự động.
 
 Thư mục `session-02/`, `session-03/`... đã được tạo sẵn — không cần `mkdir`.
 
+Làm lại **Bước 4 → Bước 7** mỗi buổi:
+
 ```bash
-# Quay về master, pull code mới nhất (bao gồm homework.md mới từ giáo viên)
+# Bước 4: Pull code mới và tạo branch buổi mới
 git checkout master
 git pull upstream master
-
-# Tạo branch mới cho buổi mới
 git checkout -b embedded-linux/K26.1/nguyen-van-a/session-02
 
-# Vào thư mục session, tạo các thư mục Exercise
+# Bước 5: Vào thư mục session, đọc đề bài, tạo thư mục Exercise và viết code
 cd embedded-linux/K26.1/nguyen-van-a/session-02
 mkdir -p Exercise_1 Exercise_2 Exercise_3
 
-# Làm bài, commit, push, mở PR như bình thường
+# Bước 6 & 7: Commit, push, mở PR như bình thường
 ```

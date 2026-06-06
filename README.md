@@ -176,6 +176,9 @@ cd embedded-linux/K26.1/nguyen-van-a/session-01/
 Đọc đề bài trong `homework.md`, tạo thư mục cho từng bài:
 
 ```bash
+# ⚠️ Tên thư mục bắt buộc: Exercise_1, Exercise_2, Exercise_3...
+#    (chữ E in hoa, dấu gạch dưới _, không phải gạch ngang -)
+
 mkdir -p Exercise_1
 mkdir -p Exercise_2
 mkdir -p Exercise_3

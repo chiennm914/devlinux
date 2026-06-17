@@ -1,27 +1,27 @@
-Student,Session-01,Session-02,Session-03,Session-04,Session-05,Session-06,Session-07,Session-08,Session-09,Session-10,Session-11,Session-12,Session-13,Session-14,Session-15,Session-16,Session-17,Session-18,Session-19,Session-20
-bui-quang-huy,✅ On time,✅ On time,✅ On time,❌ Not yet,❌ Not yet,❌ Not yet,❌ Not yet,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A
-cao-duc-anh,❌ Not yet,❌ Not yet,✅ On time,❌ Not yet,❌ Not yet,❌ Not yet,❌ Not yet,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A
-dinh-duc-chinh,✅ On time,✅ On time,✅ On time,❌ Not yet,❌ Not yet,❌ Not yet,❌ Not yet,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A
-le-hoang-giang,❌ Not yet,❌ Not yet,❌ Not yet,❌ Not yet,❌ Not yet,❌ Not yet,❌ Not yet,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A
-le-phuc-tai,✅ On time,✅ On time,✅ On time,✅ On time,✅ On time,❌ Not yet,❌ Not yet,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A
-mai-nhat-thong,✅ On time,✅ On time,✅ On time,✅ On time,✅ On time,❌ Not yet,❌ Not yet,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A
-nguyen-hai-long,❌ Not yet,❌ Not yet,❌ Not yet,❌ Not yet,❌ Not yet,❌ Not yet,❌ Not yet,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A
-nguyen-hai-nam,❌ Not yet,❌ Not yet,❌ Not yet,❌ Not yet,❌ Not yet,❌ Not yet,❌ Not yet,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A
-nguyen-hoang-ngoc-hai,✅ On time,✅ On time,✅ On time,✅ On time,✅ On time,❌ Not yet,❌ Not yet,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A
-nguyen-minh-tuan,❌ Not yet,✅ On time,❌ Not yet,❌ Not yet,❌ Not yet,❌ Not yet,❌ Not yet,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A
-nguyen-quoc-viet,✅ On time,❌ Not yet,✅ On time,❌ Not yet,❌ Not yet,❌ Not yet,❌ Not yet,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A
-nguyen-sy-hung,✅ On time,✅ On time,✅ On time,✅ On time,✅ On time,❌ Not yet,❌ Not yet,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A
-nguyen-tan-dat,❌ Not yet,❌ Not yet,❌ Not yet,❌ Not yet,❌ Not yet,❌ Not yet,❌ Not yet,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A
-nguyen-tien-dung,❌ Not yet,❌ Not yet,❌ Not yet,❌ Not yet,❌ Not yet,❌ Not yet,❌ Not yet,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A
-nguyen-tuan-thanh,❌ Not yet,❌ Not yet,❌ Not yet,❌ Not yet,❌ Not yet,❌ Not yet,❌ Not yet,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A
-nguyen-vuong-trung-nam,❌ Not yet,❌ Not yet,❌ Not yet,❌ Not yet,❌ Not yet,❌ Not yet,❌ Not yet,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A
-pham-anh-quan,⏰ Late,❌ Not yet,❌ Not yet,❌ Not yet,❌ Not yet,❌ Not yet,❌ Not yet,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A
-pham-dac-tam,✅ On time,✅ On time,✅ On time,⏰ Late,⏰ Late,❌ Not yet,❌ Not yet,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A
-pham-quang-dung,❌ Not yet,❌ Not yet,❌ Not yet,❌ Not yet,❌ Not yet,❌ Not yet,❌ Not yet,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A
-pham-tien-trinh,❌ Not yet,❌ Not yet,❌ Not yet,❌ Not yet,❌ Not yet,❌ Not yet,❌ Not yet,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A
-tran-anh-tu,❌ Not yet,❌ Not yet,❌ Not yet,❌ Not yet,❌ Not yet,❌ Not yet,❌ Not yet,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A
-tran-duc-hoa,❌ Not yet,❌ Not yet,❌ Not yet,❌ Not yet,❌ Not yet,❌ Not yet,❌ Not yet,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A
-tran-le-nhat-huy,❌ Not yet,❌ Not yet,❌ Not yet,❌ Not yet,❌ Not yet,❌ Not yet,❌ Not yet,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A
-trinh-dang,❌ Not yet,❌ Not yet,❌ Not yet,❌ Not yet,❌ Not yet,❌ Not yet,❌ Not yet,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A
-trinh-van-chuong,✅ On time,✅ On time,✅ On time,✅ On time,❌ Not yet,❌ Not yet,❌ Not yet,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A
-truong-nguyen-minh-dang,❌ Not yet,❌ Not yet,❌ Not yet,❌ Not yet,❌ Not yet,❌ Not yet,❌ Not yet,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A
+Student,Session-01,Session-02,Session-03,Session-04,Session-05,Session-06,Session-07,Session-08,Session-09,Session-10,Session-11,Session-12,Session-13,Session-14,Session-15,Session-16,Session-17,Session-18,Session-19,Session-20,Submission %
+bui-quang-huy,✅ On time,✅ On time,✅ On time,❌ Not yet,❌ Not yet,❌ Not yet,❌ Not yet,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,42.9%
+cao-duc-anh,❌ Not yet,❌ Not yet,✅ On time,❌ Not yet,❌ Not yet,❌ Not yet,❌ Not yet,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,14.3%
+dinh-duc-chinh,✅ On time,✅ On time,✅ On time,❌ Not yet,❌ Not yet,❌ Not yet,❌ Not yet,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,42.9%
+le-hoang-giang,❌ Not yet,❌ Not yet,❌ Not yet,❌ Not yet,❌ Not yet,❌ Not yet,❌ Not yet,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,0.0%
+le-phuc-tai,✅ On time,✅ On time,✅ On time,✅ On time,✅ On time,❌ Not yet,❌ Not yet,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,71.4%
+mai-nhat-thong,✅ On time,✅ On time,✅ On time,✅ On time,✅ On time,❌ Not yet,❌ Not yet,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,71.4%
+nguyen-hai-long,❌ Not yet,❌ Not yet,❌ Not yet,❌ Not yet,❌ Not yet,❌ Not yet,❌ Not yet,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,0.0%
+nguyen-hai-nam,❌ Not yet,❌ Not yet,❌ Not yet,❌ Not yet,❌ Not yet,❌ Not yet,❌ Not yet,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,0.0%
+nguyen-hoang-ngoc-hai,✅ On time,✅ On time,✅ On time,✅ On time,✅ On time,❌ Not yet,❌ Not yet,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,71.4%
+nguyen-minh-tuan,❌ Not yet,✅ On time,❌ Not yet,❌ Not yet,❌ Not yet,❌ Not yet,❌ Not yet,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,14.3%
+nguyen-quoc-viet,✅ On time,❌ Not yet,✅ On time,❌ Not yet,❌ Not yet,❌ Not yet,❌ Not yet,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,28.6%
+nguyen-sy-hung,✅ On time,✅ On time,✅ On time,✅ On time,✅ On time,❌ Not yet,❌ Not yet,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,71.4%
+nguyen-tan-dat,❌ Not yet,❌ Not yet,❌ Not yet,❌ Not yet,❌ Not yet,❌ Not yet,❌ Not yet,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,0.0%
+nguyen-tien-dung,❌ Not yet,❌ Not yet,❌ Not yet,❌ Not yet,❌ Not yet,❌ Not yet,❌ Not yet,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,0.0%
+nguyen-tuan-thanh,❌ Not yet,❌ Not yet,❌ Not yet,❌ Not yet,❌ Not yet,❌ Not yet,❌ Not yet,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,0.0%
+nguyen-vuong-trung-nam,❌ Not yet,❌ Not yet,❌ Not yet,❌ Not yet,❌ Not yet,❌ Not yet,❌ Not yet,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,0.0%
+pham-anh-quan,⏰ Late,❌ Not yet,❌ Not yet,❌ Not yet,❌ Not yet,❌ Not yet,❌ Not yet,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,7.1%
+pham-dac-tam,✅ On time,✅ On time,✅ On time,⏰ Late,⏰ Late,❌ Not yet,❌ Not yet,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,57.1%
+pham-quang-dung,❌ Not yet,❌ Not yet,❌ Not yet,❌ Not yet,❌ Not yet,❌ Not yet,❌ Not yet,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,0.0%
+pham-tien-trinh,❌ Not yet,❌ Not yet,❌ Not yet,❌ Not yet,❌ Not yet,❌ Not yet,❌ Not yet,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,0.0%
+tran-anh-tu,❌ Not yet,❌ Not yet,❌ Not yet,❌ Not yet,❌ Not yet,❌ Not yet,❌ Not yet,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,0.0%
+tran-duc-hoa,❌ Not yet,❌ Not yet,❌ Not yet,❌ Not yet,❌ Not yet,❌ Not yet,❌ Not yet,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,0.0%
+tran-le-nhat-huy,❌ Not yet,❌ Not yet,❌ Not yet,❌ Not yet,❌ Not yet,❌ Not yet,❌ Not yet,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,0.0%
+trinh-dang,❌ Not yet,❌ Not yet,❌ Not yet,❌ Not yet,❌ Not yet,❌ Not yet,❌ Not yet,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,0.0%
+trinh-van-chuong,✅ On time,✅ On time,✅ On time,✅ On time,❌ Not yet,❌ Not yet,❌ Not yet,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,57.1%
+truong-nguyen-minh-dang,❌ Not yet,❌ Not yet,❌ Not yet,❌ Not yet,❌ Not yet,❌ Not yet,❌ Not yet,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,⚪ N/A,0.0%

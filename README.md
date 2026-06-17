@@ -111,11 +111,11 @@ tran-anh-tu,✅ On time,✅ On time,⏰ Late,...,⚪ N/A,72.5%
 
 **Bài tập chỉ được tính khi:**
 1. ✅ **Được nộp trước deadline** HOẶC **sau deadline** (miễn nộp trước khi báo cáo chạy)
-2. **VÀ** bài tập được review bot chấp nhận (có label `✅ passed`)
+2. **VÀ** bài tập được hệ thống chấp nhận (có label `✅ passed`)
 
 **Nếu bài tập chưa đạt yêu cầu:**
 - Dù nộp trước deadline, vẫn hiện `❌ Not yet` trên báo cáo
-- **Phải sửa lại theo nhận xét của review bot để đạt label `✅ passed`**
+- **Phải sửa lại theo nhận xét của hệ thống để đạt label `✅ passed`**
 - **Deadline của bài tập là deadline để NỘP + CÓ SẴN LABEL `✅ passed`**
 - Nộp muộn nhưng chưa có `✅ passed` → vẫn tính là `❌ Not yet`
 
@@ -152,7 +152,7 @@ Submission % = (Tổng điểm từ bài tập đạt / Tổng bài tập đã q
 
 > 💡 **Lưu ý:** 
 > - Báo cáo được tạo dựa trên PR của học viên, không phải merge PR. Nộp bài = tạo PR, không cần merge để được tính là đã nộp.
-> - **Chỉ bài tập có label `✅ passed` từ review bot mới được tính vào báo cáo và submission %**
+> - **Chỉ bài tập có label `✅ passed` từ hệ thống mới được tính vào báo cáo và submission %**
 > - Nộp bài sớm nhưng chưa đạt `✅ passed` → phải sửa trước deadline để được tính vào submission %
 
 ---

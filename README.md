@@ -170,7 +170,7 @@ Sau khi fork xong, GitHub tự chuyển sang repo của bạn. Kiểm tra góc t
 
 ```
 TÊN_BẠN / devlinux
-forked from quocviet1026/devlinux
+forked from DevLinux-vn/devlinux
 ```
 
 ---
@@ -361,7 +361,7 @@ Phần sau `origin` là tên branch — phải khớp với branch đang làm vi
 3. Kiểm tra 4 trường như ví dụ sau:
 
 ```
-base repository: quocviet1026/devlinux  ←  base: master
+base repository: DevLinux-vn/devlinux  ←  base: master
 head repository: nguyen-van-a/devlinux  ←  compare: embedded-linux/K26.1/nguyen-van-a/session-01
 ```
 

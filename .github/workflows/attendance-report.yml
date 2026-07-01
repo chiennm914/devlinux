@@ -22,6 +22,10 @@ jobs:
       - name: Checkout devlinux repo
         uses: actions/checkout@v4
 
+      # Pull latest changes to avoid conflicts
+      - name: Pull latest changes
+        run: git pull origin master
+
       # Setup SSH to clone private reviewer repo
       - name: Setup SSH Deploy Key
         uses: webfactory/ssh-agent@v0.9.0

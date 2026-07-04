@@ -12,6 +12,7 @@
 #include <stdio.h>
 #include <stdint.h>
 #include <stdlib.h>
+#include <inttypes.h>
 // declare variables
 const uint32_t global_const = 100;
 uint32_t global_init = 42;
@@ -54,11 +55,11 @@ static void print_memory_map(void){
     uintptr_t addr_data   = (uintptr_t)&global_init;
     uintptr_t addr_bss    = (uintptr_t)&global_uninit;
     uintptr_t addr_stack  = (uintptr_t)&local_var;
-    printf("RODATA - TEXT: %llu bytes\n", addr_rodata - addr_text);
-    printf("DATA - RODATA: %llu bytes\n", addr_data - addr_rodata);
-    printf("BSS - DATA: %llu bytes\n", addr_bss - addr_data);
-    printf("HEAP - BSS: %llu bytes\n", addr_heap - addr_bss);
-    printf("STACK - HEAP: %llu bytes\n", addr_stack - addr_heap);
+    printf("RODATA - TEXT: %" PRIuPTR " bytes\n", addr_rodata - addr_text);
+    printf("DATA - RODATA: %" PRIuPTR " bytes\n", addr_data - addr_rodata);
+    printf("BSS - DATA: %" PRIuPTR " bytes\n", addr_bss - addr_data);
+    printf("HEAP - BSS: %" PRIuPTR " bytes\n", addr_heap - addr_bss);
+    printf("STACK - HEAP: %" PRIuPTR " bytes\n", addr_stack - addr_heap);
 
 }
 /*
